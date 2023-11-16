@@ -1,7 +1,8 @@
-package org.aptech.t2303e.designpattern.abtractFactoryPattern;
+package org.aptech.t2303e.designpattern.abtractFactoryPattern.Furniture;
 
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Factory.PlasticAbstractFactory;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Factory.WoodAbstractFactory;
+import org.aptech.t2303e.designpattern.abtractFactoryPattern.Furniture.FurnitureAbstractFactory;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Material.MaterialType;
 
 public class FurnitureFactory {

@@ -1,5 +1,7 @@
 package org.aptech.t2303e.designpattern.abtractFactoryPattern;
 
+import org.aptech.t2303e.designpattern.abtractFactoryPattern.Furniture.FurnitureAbstractFactory;
+import org.aptech.t2303e.designpattern.abtractFactoryPattern.Furniture.FurnitureFactory;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Material.MaterialType;
 
 public class Client {

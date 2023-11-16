@@ -1,7 +1,7 @@
 package org.aptech.t2303e.designpattern.abtractFactoryPattern.Factory;
 
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Chair;
-import org.aptech.t2303e.designpattern.abtractFactoryPattern.FurnitureAbstractFactory;
+import org.aptech.t2303e.designpattern.abtractFactoryPattern.Furniture.FurnitureAbstractFactory;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.Table;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.ipm.WoodChair;
 import org.aptech.t2303e.designpattern.abtractFactoryPattern.ipm.WoodTable;
